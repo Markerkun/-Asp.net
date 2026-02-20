@@ -1,6 +1,8 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Shop.Data;
 using Shop.Helpers;
+using Shop.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,10 +10,24 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<AppDbContext>(options => {
-    var conectionString = builder.Configuration.GetConnectionString("name=LocalDb");
+    var conectionString = builder.Configuration.GetConnectionString("LocalDb");
     options.UseSqlServer(conectionString);
 }
 );
+
+
+builder.Services.AddIdentity<UserModel, IdentityRole>(options =>
+    {
+        options.Password.RequiredLength = 6;
+        options.Password.RequireDigit = false;
+        options.Password.RequireNonAlphanumeric = false;
+        options.Password.RequireUppercase = false;
+        options.Password.RequireLowercase = false;
+
+    })
+    .AddEntityFrameworkStores<AppDbContext>()
+    .AddDefaultTokenProviders()
+    .AddDefaultUI();    
 
 var app = builder.Build();
 
@@ -26,7 +42,10 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
+
+app.MapRazorPages();
 
 app.MapStaticAssets();
 
