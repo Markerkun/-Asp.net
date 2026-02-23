@@ -26,7 +26,7 @@ namespace Shop.Helpers
             if (!roleManager.Roles.Any())
             {
                 var adminRole = new IdentityRole { Name = "Admin" };
-                var userRole = new IdentityRole{Name = "User"};
+                var userRole = new IdentityRole { Name = "User" };
 
                 roleManager.CreateAsync(adminRole).Wait();
                 roleManager.CreateAsync(userRole).Wait();
@@ -48,22 +48,23 @@ namespace Shop.Helpers
                     Surname = "Smith"
                 };
                 if (!context.Categories.Any())
-            {
-                string root = Directory.GetCurrentDirectory();
-                string path = Path.Combine(root, "wwwroot", "seed_data", "components.json");
-                string json = File.ReadAllText(path);
-                List<CategoryModel>? categories = JsonSerializer.Deserialize<List<CategoryModel>>(json);
-
-                if (categories == null)
                 {
-                    return;
-                }
+                    string root = Directory.GetCurrentDirectory();
+                    string path = Path.Combine(root, "wwwroot", "seed_data", "components.json");
+                    string json = File.ReadAllText(path);
+                    List<CategoryModel>? categories = JsonSerializer.Deserialize<List<CategoryModel>>(json);
 
-                context.Categories.AddRange(categories);
-                context.SaveChanges();
+                    if (categories == null)
+                    {
+                        return;
+                    }
+
+                    context.Categories.AddRange(categories);
+                    context.SaveChanges();
+                }
             }
+
         }
 
     }
-
 }

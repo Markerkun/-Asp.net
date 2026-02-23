@@ -15,6 +15,14 @@ builder.Services.AddDbContext<AppDbContext>(options => {
 }
 );
 
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromHours(1);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
+
 
 builder.Services.AddIdentity<UserModel, IdentityRole>(options =>
     {
