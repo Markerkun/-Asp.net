@@ -43,6 +43,8 @@ namespace Shop.Data
                 .HasMaxLength(200);
                 entity.Property(e => e.Price)
                 .IsRequired();
+                entity.Property(e => e.Amount)
+                .IsRequired();
                 entity.HasOne(e => e.Category)
                     .WithMany(c => c.Products)
                     .HasForeignKey(e => e.CategoryId)
