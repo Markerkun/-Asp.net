@@ -713,6 +713,1126 @@
       "Description": "SATA SSD, надійний та швидкий",
       "CategoryId": 5,
       "BrandId": 8
+    },
+    {
+      "Id": 93,
+      "Name": "Gigabyte B660 Aorus Master",
+      "Price": 210,
+      "Amount": 8,
+      "Image": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg",
+      "Description": "LGA1700, DDR5, потужна система живлення",
+      "CategoryId": 3,
+      "BrandId": 6
+    },
+    {
+      "Id": 94,
+      "Name": "ASUS ROG Strix Z690-F",
+      "Price": 350,
+      "Amount": 6,
+      "Image": "https://images.pexels.com/photos/2582938/pexels-photo-2582938.jpeg",
+      "Description": "DDR5, PCIe 5.0, преміум плата",
+      "CategoryId": 3,
+      "BrandId": 4
+    },
+    {
+      "Id": 95,
+      "Name": "MSI Z790 Gaming Pro",
+      "Price": 280,
+      "Amount": 7,
+      "Image": "https://images.pexels.com/photos/2582939/pexels-photo-2582939.jpeg",
+      "Description": "LGA1700, сучасний чіпсет",
+      "CategoryId": 3,
+      "BrandId": 5
+    },
+    {
+      "Id": 96,
+      "Name": "Gigabyte X670 Aorus Elite",
+      "Price": 300,
+      "Amount": 5,
+      "Image": "https://images.pexels.com/photos/2582940/pexels-photo-2582940.jpeg",
+      "Description": "AM5, DDR5, стабільна робота",
+      "CategoryId": 3,
+      "BrandId": 6
+    },
+    {
+      "Id": 97,
+      "Name": "ASUS Prime X570-P",
+      "Price": 190,
+      "Amount": 9,
+      "Image": "https://images.pexels.com/photos/2582941/pexels-photo-2582941.jpeg",
+      "Description": "AM4, підтримка Ryzen",
+      "CategoryId": 3,
+      "BrandId": 4
+    },
+
+    {
+      "Id": 98,
+      "Name": "Kingston Fury Beast 8GB DDR4",
+      "Price": 35,
+      "Amount": 30,
+      "Image": "https://images.pexels.com/photos/2582942/pexels-photo-2582942.jpeg",
+      "Description": "DDR4 2666MHz",
+      "CategoryId": 4,
+      "BrandId": 7
+    },
+    {
+      "Id": 99,
+      "Name": "Corsair Vengeance 8GB DDR4",
+      "Price": 40,
+      "Amount": 24,
+      "Image": "https://images.pexels.com/photos/2582943/pexels-photo-2582943.jpeg",
+      "Description": "DDR4 3000MHz",
+      "CategoryId": 4,
+      "BrandId": 10
+    },
+    {
+      "Id": 100,
+      "Name": "Kingston Fury Renegade 32GB DDR5",
+      "Price": 220,
+      "Amount": 9,
+      "Image": "https://images.pexels.com/photos/2582944/pexels-photo-2582944.jpeg",
+      "Description": "DDR5 6400MHz",
+      "CategoryId": 4,
+      "BrandId": 7
+    },
+
+    {
+      "Id": 101,
+      "Name": "Samsung 990 PRO 2TB",
+      "Price": 260,
+      "Amount": 10,
+      "Image": "https://images.pexels.com/photos/2582945/pexels-photo-2582945.jpeg",
+      "Description": "PCIe 4.0 NVMe",
+      "CategoryId": 5,
+      "BrandId": 8
+    },
+    {
+      "Id": 102,
+      "Name": "WD SN850X 2TB",
+      "Price": 240,
+      "Amount": 12,
+      "Image": "https://images.pexels.com/photos/2582946/pexels-photo-2582946.jpeg",
+      "Description": "NVMe Gen4 високої швидкості",
+      "CategoryId": 5,
+      "BrandId": 9
+    },
+
+    {
+      "Id": 103,
+      "Name": "Seagate Barracuda 4TB",
+      "Price": 95,
+      "Amount": 18,
+      "Image": "https://images.pexels.com/photos/2582947/pexels-photo-2582947.jpeg",
+      "Description": "Надійний HDD для зберігання",
+      "CategoryId": 6,
+      "BrandId": 2
+    },
+    {
+      "Id": 104,
+      "Name": "WD Blue 4TB",
+      "Price": 100,
+      "Amount": 15,
+      "Image": "https://images.pexels.com/photos/2582948/pexels-photo-2582948.jpeg",
+      "Description": "SATA HDD, тихий і надійний",
+      "CategoryId": 6,
+      "BrandId": 9
+    },
+
+    {
+      "Id": 105,
+      "Name": "Corsair RM850x",
+      "Price": 170,
+      "Amount": 9,
+      "Image": "https://images.pexels.com/photos/2582949/pexels-photo-2582949.jpeg",
+      "Description": "850W 80+ Gold",
+      "CategoryId": 7,
+      "BrandId": 10
+    },
+    {
+      "Id": 106,
+      "Name": "MSI MAG 650W Bronze",
+      "Price": 80,
+      "Amount": 18,
+      "Image": "https://images.pexels.com/photos/2582950/pexels-photo-2582950.jpeg",
+      "Description": "Надійний блок живлення",
+      "CategoryId": 7,
+      "BrandId": 5
+    },
+
+    {
+      "Id": 107,
+      "Name": "NZXT H7 Flow",
+      "Price": 140,
+      "Amount": 7,
+      "Image": "https://images.pexels.com/photos/2582951/pexels-photo-2582951.jpeg",
+      "Description": "Великий корпус з чудовою вентиляцією",
+      "CategoryId": 8,
+      "BrandId": 6
+    },
+    {
+      "Id": 108,
+      "Name": "Corsair 5000D Airflow",
+      "Price": 170,
+      "Amount": 6,
+      "Image": "https://images.pexels.com/photos/2582952/pexels-photo-2582952.jpeg",
+      "Description": "Преміальний корпус ATX",
+      "CategoryId": 8,
+      "BrandId": 10
+    },
+
+    {
+      "Id": 109,
+      "Name": "Deepcool AK620",
+      "Price": 65,
+      "Amount": 14,
+      "Image": "https://images.pexels.com/photos/2582953/pexels-photo-2582953.jpeg",
+      "Description": "Потужне повітряне охолодження",
+      "CategoryId": 9,
+      "BrandId": 5
+    },
+    {
+      "Id": 110,
+      "Name": "Be Quiet! Dark Rock Pro 4",
+      "Price": 95,
+      "Amount": 9,
+      "Image": "https://images.pexels.com/photos/2582954/pexels-photo-2582954.jpeg",
+      "Description": "Надтиха система охолодження",
+      "CategoryId": 9,
+      "BrandId": 7
+    },
+
+    {
+      "Id": 111,
+      "Name": "TP-Link Archer C80",
+      "Price": 70,
+      "Amount": 21,
+      "Image": "https://images.pexels.com/photos/2582955/pexels-photo-2582955.jpeg",
+      "Description": "AC1900 Wi-Fi роутер",
+      "CategoryId": 10,
+      "BrandId": 4
+    },
+    {
+      "Id": 112,
+      "Name": "ASUS RT-AX55",
+      "Price": 95,
+      "Amount": 16,
+      "Image": "https://images.pexels.com/photos/2582956/pexels-photo-2582956.jpeg",
+      "Description": "Wi-Fi 6, стабільний сигнал",
+      "CategoryId": 10,
+      "BrandId": 4
+    },
+    {
+      "Id": 113,
+      "Name": "Intel Core i3-13100",
+      "Price": 140,
+      "Amount": 16,
+      "Image": "https://images.pexels.com/photos/2583001/pexels-photo-2583001.jpeg",
+      "Description": "4 ядра, сучасний бюджетний CPU",
+      "CategoryId": 1,
+      "BrandId": 1
+    },
+    {
+      "Id": 114,
+      "Name": "Intel Core i7-13700K",
+      "Price": 420,
+      "Amount": 6,
+      "Image": "https://images.pexels.com/photos/2583002/pexels-photo-2583002.jpeg",
+      "Description": "16 ядер, висока продуктивність",
+      "CategoryId": 1,
+      "BrandId": 1
+    },
+    {
+      "Id": 115,
+      "Name": "AMD Ryzen 5 5500",
+      "Price": 120,
+      "Amount": 19,
+      "Image": "https://images.pexels.com/photos/2583003/pexels-photo-2583003.jpeg",
+      "Description": "6 ядер, хороший вибір для ігор",
+      "CategoryId": 1,
+      "BrandId": 2
+    },
+    {
+      "Id": 116,
+      "Name": "AMD Ryzen 9 7950X",
+      "Price": 620,
+      "Amount": 4,
+      "Image": "https://images.pexels.com/photos/2583004/pexels-photo-2583004.jpeg",
+      "Description": "16 ядер, флагманська продуктивність",
+      "CategoryId": 1,
+      "BrandId": 2
+    },
+
+    {
+      "Id": 117,
+      "Name": "NVIDIA RTX 4070",
+      "Price": 650,
+      "Amount": 7,
+      "Image": "https://images.pexels.com/photos/2583005/pexels-photo-2583005.jpeg",
+      "Description": "12GB, ідеальна для QHD",
+      "CategoryId": 2,
+      "BrandId": 3
+    },
+    {
+      "Id": 118,
+      "Name": "NVIDIA RTX 4080",
+      "Price": 1100,
+      "Amount": 3,
+      "Image": "https://images.pexels.com/photos/2583006/pexels-photo-2583006.jpeg",
+      "Description": "16GB GDDR6X, 4K Gaming",
+      "CategoryId": 2,
+      "BrandId": 3
+    },
+    {
+      "Id": 119,
+      "Name": "AMD RX 7600",
+      "Price": 320,
+      "Amount": 10,
+      "Image": "https://images.pexels.com/photos/2583007/pexels-photo-2583007.jpeg",
+      "Description": "8GB, сучасна архітектура",
+      "CategoryId": 2,
+      "BrandId": 2
+    },
+    {
+      "Id": 120,
+      "Name": "AMD RX 7900 XT",
+      "Price": 900,
+      "Amount": 4,
+      "Image": "https://images.pexels.com/photos/2583008/pexels-photo-2583008.jpeg",
+      "Description": "20GB, висока продуктивність",
+      "CategoryId": 2,
+      "BrandId": 2
+    },
+
+    {
+      "Id": 121,
+      "Name": "ASUS PRIME B760",
+      "Price": 180,
+      "Amount": 11,
+      "Image": "https://images.pexels.com/photos/2583009/pexels-photo-2583009.jpeg",
+      "Description": "LGA1700, стабільна робота",
+      "CategoryId": 3,
+      "BrandId": 4
+    },
+    {
+      "Id": 122,
+      "Name": "MSI PRO B760M-A",
+      "Price": 150,
+      "Amount": 13,
+      "Image": "https://images.pexels.com/photos/2583010/pexels-photo-2583010.jpeg",
+      "Description": "Компактна mATX плата",
+      "CategoryId": 3,
+      "BrandId": 5
+    },
+    {
+      "Id": 123,
+      "Name": "Gigabyte Z790 Aorus Elite",
+      "Price": 330,
+      "Amount": 6,
+      "Image": "https://images.pexels.com/photos/2583011/pexels-photo-2583011.jpeg",
+      "Description": "Преміальна плата для розгону",
+      "CategoryId": 3,
+      "BrandId": 6
+    },
+    {
+      "Id": 124,
+      "Name": "ASUS ROG Crosshair X670E",
+      "Price": 480,
+      "Amount": 3,
+      "Image": "https://images.pexels.com/photos/2583012/pexels-photo-2583012.jpeg",
+      "Description": "AM5, топовий чіпсет",
+      "CategoryId": 3,
+      "BrandId": 4
+    },
+
+    {
+      "Id": 125,
+      "Name": "Corsair Vengeance 16GB DDR5",
+      "Price": 110,
+      "Amount": 18,
+      "Image": "https://images.pexels.com/photos/2583013/pexels-photo-2583013.jpeg",
+      "Description": "DDR5 5600MHz",
+      "CategoryId": 4,
+      "BrandId": 10
+    },
+    {
+      "Id": 126,
+      "Name": "Kingston Fury Beast 16GB DDR5",
+      "Price": 105,
+      "Amount": 20,
+      "Image": "https://images.pexels.com/photos/2583014/pexels-photo-2583014.jpeg",
+      "Description": "DDR5 швидка пам'ять",
+      "CategoryId": 4,
+      "BrandId": 7
+    },
+    {
+      "Id": 127,
+      "Name": "Corsair Dominator 64GB DDR5",
+      "Price": 380,
+      "Amount": 5,
+      "Image": "https://images.pexels.com/photos/2583015/pexels-photo-2583015.jpeg",
+      "Description": "Преміальна RGB пам'ять",
+      "CategoryId": 4,
+      "BrandId": 10
+    },
+    {
+      "Id": 128,
+      "Name": "Kingston Fury Impact 32GB",
+      "Price": 150,
+      "Amount": 12,
+      "Image": "https://images.pexels.com/photos/2583016/pexels-photo-2583016.jpeg",
+      "Description": "Надійна пам'ять для ПК",
+      "CategoryId": 4,
+      "BrandId": 7
+    },
+
+    {
+      "Id": 129,
+      "Name": "Samsung 990 EVO 1TB",
+      "Price": 150,
+      "Amount": 16,
+      "Image": "https://images.pexels.com/photos/2583017/pexels-photo-2583017.jpeg",
+      "Description": "NVMe швидкісний SSD",
+      "CategoryId": 5,
+      "BrandId": 8
+    },
+    {
+      "Id": 130,
+      "Name": "WD Blue SN580 1TB",
+      "Price": 90,
+      "Amount": 21,
+      "Image": "https://images.pexels.com/photos/2583018/pexels-photo-2583018.jpeg",
+      "Description": "Надійний NVMe накопичувач",
+      "CategoryId": 5,
+      "BrandId": 9
+    },
+    {
+      "Id": 131,
+      "Name": "Corsair MP700 2TB",
+      "Price": 300,
+      "Amount": 7,
+      "Image": "https://images.pexels.com/photos/2583019/pexels-photo-2583019.jpeg",
+      "Description": "PCIe 5.0 надшвидкий SSD",
+      "CategoryId": 5,
+      "BrandId": 10
+    },
+    {
+      "Id": 132,
+      "Name": "Samsung 870 EVO 1TB",
+      "Price": 95,
+      "Amount": 19,
+      "Image": "https://images.pexels.com/photos/2583020/pexels-photo-2583020.jpeg",
+      "Description": "Надійний SATA SSD",
+      "CategoryId": 5,
+      "BrandId": 8
+    },
+
+    {
+      "Id": 133,
+      "Name": "Seagate SkyHawk 6TB",
+      "Price": 160,
+      "Amount": 8,
+      "Image": "https://images.pexels.com/photos/2583021/pexels-photo-2583021.jpeg",
+      "Description": "HDD для систем відеоспостереження",
+      "CategoryId": 6,
+      "BrandId": 2
+    },
+    {
+      "Id": 134,
+      "Name": "WD Red Plus 6TB",
+      "Price": 170,
+      "Amount": 7,
+      "Image": "https://images.pexels.com/photos/2583022/pexels-photo-2583022.jpeg",
+      "Description": "HDD для NAS",
+      "CategoryId": 6,
+      "BrandId": 9
+    },
+    {
+      "Id": 135,
+      "Name": "Seagate Exos 8TB",
+      "Price": 220,
+      "Amount": 5,
+      "Image": "https://images.pexels.com/photos/2583023/pexels-photo-2583023.jpeg",
+      "Description": "Корпоративний HDD",
+      "CategoryId": 6,
+      "BrandId": 2
+    },
+    {
+      "Id": 136,
+      "Name": "WD Purple 4TB",
+      "Price": 120,
+      "Amount": 11,
+      "Image": "https://images.pexels.com/photos/2583024/pexels-photo-2583024.jpeg",
+      "Description": "HDD для відеоспостереження",
+      "CategoryId": 6,
+      "BrandId": 9
+    },
+
+    {
+      "Id": 137,
+      "Name": "Corsair RM1000x",
+      "Price": 220,
+      "Amount": 6,
+      "Image": "https://images.pexels.com/photos/2583025/pexels-photo-2583025.jpeg",
+      "Description": "1000W 80+ Gold",
+      "CategoryId": 7,
+      "BrandId": 10
+    },
+    {
+      "Id": 138,
+      "Name": "ASUS ROG Thor 850W",
+      "Price": 260,
+      "Amount": 4,
+      "Image": "https://images.pexels.com/photos/2583026/pexels-photo-2583026.jpeg",
+      "Description": "Преміальний блок живлення",
+      "CategoryId": 7,
+      "BrandId": 4
+    },
+    {
+      "Id": 139,
+      "Name": "MSI MPG 1000G",
+      "Price": 210,
+      "Amount": 5,
+      "Image": "https://images.pexels.com/photos/2583027/pexels-photo-2583027.jpeg",
+      "Description": "1000W, модульний",
+      "CategoryId": 7,
+      "BrandId": 5
+    },
+    {
+      "Id": 140,
+      "Name": "Corsair CX650",
+      "Price": 75,
+      "Amount": 20,
+      "Image": "https://images.pexels.com/photos/2583028/pexels-photo-2583028.jpeg",
+      "Description": "650W бюджетний БЖ",
+      "CategoryId": 7,
+      "BrandId": 10
+    },
+
+    {
+      "Id": 141,
+      "Name": "NZXT H9 Elite",
+      "Price": 240,
+      "Amount": 3,
+      "Image": "https://images.pexels.com/photos/2583029/pexels-photo-2583029.jpeg",
+      "Description": "Преміальний корпус",
+      "CategoryId": 8,
+      "BrandId": 6
+    },
+    {
+      "Id": 142,
+      "Name": "Corsair iCUE 5000X RGB",
+      "Price": 210,
+      "Amount": 5,
+      "Image": "https://images.pexels.com/photos/2583030/pexels-photo-2583030.jpeg",
+      "Description": "RGB корпус ATX",
+      "CategoryId": 8,
+      "BrandId": 10
+    },
+    {
+      "Id": 143,
+      "Name": "MSI MPG GUNGNIR 110R",
+      "Price": 130,
+      "Amount": 9,
+      "Image": "https://images.pexels.com/photos/2583031/pexels-photo-2583031.jpeg",
+      "Description": "Стильний геймерський корпус",
+      "CategoryId": 8,
+      "BrandId": 5
+    },
+    {
+      "Id": 144,
+      "Name": "ASUS ROG Strix Helios",
+      "Price": 290,
+      "Amount": 2,
+      "Image": "https://images.pexels.com/photos/2583032/pexels-photo-2583032.jpeg",
+      "Description": "Full Tower преміум",
+      "CategoryId": 8,
+      "BrandId": 4
+    },
+
+    {
+      "Id": 145,
+      "Name": "Noctua NH-U12S",
+      "Price": 70,
+      "Amount": 11,
+      "Image": "https://images.pexels.com/photos/2583033/pexels-photo-2583033.jpeg",
+      "Description": "Тихий кулер преміум класу",
+      "CategoryId": 9,
+      "BrandId": 7
+    },
+    {
+      "Id": 146,
+      "Name": "Corsair iCUE H150i Elite",
+      "Price": 190,
+      "Amount": 4,
+      "Image": "https://images.pexels.com/photos/2583034/pexels-photo-2583034.jpeg",
+      "Description": "360мм рідинне охолодження",
+      "CategoryId": 9,
+      "BrandId": 10
+    },
+    {
+      "Id": 147,
+      "Name": "Deepcool LS720",
+      "Price": 150,
+      "Amount": 6,
+      "Image": "https://images.pexels.com/photos/2583035/pexels-photo-2583035.jpeg",
+      "Description": "СВО з RGB",
+      "CategoryId": 9,
+      "BrandId": 5
+    },
+    {
+      "Id": 148,
+      "Name": "Be Quiet! Pure Rock 2",
+      "Price": 45,
+      "Amount": 18,
+      "Image": "https://images.pexels.com/photos/2583036/pexels-photo-2583036.jpeg",
+      "Description": "Тихий повітряний кулер",
+      "CategoryId": 9,
+      "BrandId": 7
+    },
+
+    {
+      "Id": 149,
+      "Name": "TP-Link Archer AX20",
+      "Price": 85,
+      "Amount": 19,
+      "Image": "https://images.pexels.com/photos/2583037/pexels-photo-2583037.jpeg",
+      "Description": "Wi-Fi 6 роутер",
+      "CategoryId": 10,
+      "BrandId": 4
+    },
+    {
+      "Id": 150,
+      "Name": "ASUS RT-AX58U",
+      "Price": 150,
+      "Amount": 10,
+      "Image": "https://images.pexels.com/photos/2583038/pexels-photo-2583038.jpeg",
+      "Description": "Стабільний геймерський Wi-Fi 6",
+      "CategoryId": 10,
+      "BrandId": 4
+    },
+    {
+      "Id": 151,
+      "Name": "Netgear RAX50",
+      "Price": 170,
+      "Amount": 8,
+      "Image": "https://images.pexels.com/photos/2583039/pexels-photo-2583039.jpeg",
+      "Description": "Високошвидкісний роутер",
+      "CategoryId": 10,
+      "BrandId": 6
+    },
+    {
+      "Id": 152,
+      "Name": "TP-Link Deco X50",
+      "Price": 220,
+      "Amount": 6,
+      "Image": "https://images.pexels.com/photos/2583040/pexels-photo-2583040.jpeg",
+      "Description": "Mesh Wi-Fi система",
+      "CategoryId": 10,
+      "BrandId": 4
+    },
+
+    {
+      "Id": 153,
+      "Name": "Intel Core i9-13900K",
+      "Price": 640,
+      "Amount": 3,
+      "Image": "https://images.pexels.com/photos/2583041/pexels-photo-2583041.jpeg",
+      "Description": "Флагманський процесор",
+      "CategoryId": 1,
+      "BrandId": 1
+    },
+    {
+      "Id": 154,
+      "Name": "AMD Ryzen 9 7900X",
+      "Price": 520,
+      "Amount": 4,
+      "Image": "https://images.pexels.com/photos/2583042/pexels-photo-2583042.jpeg",
+      "Description": "12 ядер Zen 4",
+      "CategoryId": 1,
+      "BrandId": 2
+    },
+
+    {
+      "Id": 155,
+      "Name": "RTX 4090 Gaming X Trio",
+      "Price": 1800,
+      "Amount": 2,
+      "Image": "https://images.pexels.com/photos/2583043/pexels-photo-2583043.jpeg",
+      "Description": "Найпотужніша відеокарта",
+      "CategoryId": 2,
+      "BrandId": 5
+    },
+    {
+      "Id": 156,
+      "Name": "ASUS TUF RTX 4070 Ti",
+      "Price": 820,
+      "Amount": 5,
+      "Image": "https://images.pexels.com/photos/2583044/pexels-photo-2583044.jpeg",
+      "Description": "Потужна та тиха",
+      "CategoryId": 2,
+      "BrandId": 4
+    },
+
+    {
+      "Id": 157,
+      "Name": "Gigabyte B550M DS3H",
+      "Price": 95,
+      "Amount": 20,
+      "Image": "https://images.pexels.com/photos/2583045/pexels-photo-2583045.jpeg",
+      "Description": "Бюджетна AM4 плата",
+      "CategoryId": 3,
+      "BrandId": 6
+    },
+    {
+      "Id": 158,
+      "Name": "MSI X570 Gaming Plus",
+      "Price": 210,
+      "Amount": 7,
+      "Image": "https://images.pexels.com/photos/2583046/pexels-photo-2583046.jpeg",
+      "Description": "Надійна плата для Ryzen",
+      "CategoryId": 3,
+      "BrandId": 5
+    },
+
+    {
+      "Id": 159,
+      "Name": "Corsair Vengeance 32GB DDR5",
+      "Price": 190,
+      "Amount": 10,
+      "Image": "https://images.pexels.com/photos/2583047/pexels-photo-2583047.jpeg",
+      "Description": "Висока швидкість",
+      "CategoryId": 4,
+      "BrandId": 10
+    },
+    {
+      "Id": 160,
+      "Name": "Kingston Fury 16GB DDR4",
+      "Price": 70,
+      "Amount": 22,
+      "Image": "https://images.pexels.com/photos/2583048/pexels-photo-2583048.jpeg",
+      "Description": "Надійна пам'ять",
+      "CategoryId": 4,
+      "BrandId": 7
+    },
+
+    {
+      "Id": 161,
+      "Name": "WD SN770 2TB",
+      "Price": 170,
+      "Amount": 13,
+      "Image": "https://images.pexels.com/photos/2583049/pexels-photo-2583049.jpeg",
+      "Description": "Швидкий NVMe SSD",
+      "CategoryId": 5,
+      "BrandId": 9
+    },
+    {
+      "Id": 162,
+      "Name": "Samsung 980 500GB",
+      "Price": 65,
+      "Amount": 24,
+      "Image": "https://images.pexels.com/photos/2583050/pexels-photo-2583050.jpeg",
+      "Description": "NVMe SSD",
+      "CategoryId": 5,
+      "BrandId": 8
+    },
+
+    {
+      "Id": 163,
+      "Name": "Seagate Barracuda 1TB",
+      "Price": 45,
+      "Amount": 30,
+      "Image": "https://images.pexels.com/photos/2583051/pexels-photo-2583051.jpeg",
+      "Description": "Бюджетний HDD",
+      "CategoryId": 6,
+      "BrandId": 2
+    },
+    {
+      "Id": 164,
+      "Name": "WD Blue 1TB",
+      "Price": 47,
+      "Amount": 28,
+      "Image": "https://images.pexels.com/photos/2583052/pexels-photo-2583052.jpeg",
+      "Description": "Надійний HDD",
+      "CategoryId": 6,
+      "BrandId": 9
+    },
+
+    {
+      "Id": 165,
+      "Name": "Corsair RM650",
+      "Price": 95,
+      "Amount": 16,
+      "Image": "https://images.pexels.com/photos/2583053/pexels-photo-2583053.jpeg",
+      "Description": "650W Gold",
+      "CategoryId": 7,
+      "BrandId": 10
+    },
+    {
+      "Id": 166,
+      "Name": "ASUS TUF 750W Bronze",
+      "Price": 85,
+      "Amount": 17,
+      "Image": "https://images.pexels.com/photos/2583054/pexels-photo-2583054.jpeg",
+      "Description": "Надійний блок",
+      "CategoryId": 7,
+      "BrandId": 4
+    },
+
+    {
+      "Id": 167,
+      "Name": "NZXT H5 Flow",
+      "Price": 110,
+      "Amount": 11,
+      "Image": "https://images.pexels.com/photos/2583055/pexels-photo-2583055.jpeg",
+      "Description": "Компактний корпус",
+      "CategoryId": 8,
+      "BrandId": 6
+    },
+    {
+      "Id": 168,
+      "Name": "Corsair 3000D Airflow",
+      "Price": 95,
+      "Amount": 14,
+      "Image": "https://images.pexels.com/photos/2583056/pexels-photo-2583056.jpeg",
+      "Description": "Добрий повітряний потік",
+      "CategoryId": 8,
+      "BrandId": 10
+    },
+
+    {
+      "Id": 169,
+      "Name": "Cooler Master ML240L",
+      "Price": 85,
+      "Amount": 13,
+      "Image": "https://images.pexels.com/photos/2583057/pexels-photo-2583057.jpeg",
+      "Description": "Рідинне охолодження 240мм",
+      "CategoryId": 9,
+      "BrandId": 5
+    },
+    {
+      "Id": 170,
+      "Name": "Deepcool GAMMAXX 400",
+      "Price": 30,
+      "Amount": 25,
+      "Image": "https://images.pexels.com/photos/2583058/pexels-photo-2583058.jpeg",
+      "Description": "Бюджетний кулер",
+      "CategoryId": 9,
+      "BrandId": 5
+    },
+
+    {
+      "Id": 171,
+      "Name": "TP-Link TL-WR841N",
+      "Price": 35,
+      "Amount": 30,
+      "Image": "https://images.pexels.com/photos/2583059/pexels-photo-2583059.jpeg",
+      "Description": "Бюджетний роутер",
+      "CategoryId": 10,
+      "BrandId": 4
+    },
+    {
+      "Id": 172,
+      "Name": "Netgear Orbi RBK352",
+      "Price": 260,
+      "Amount": 5,
+      "Image": "https://images.pexels.com/photos/2583060/pexels-photo-2583060.jpeg",
+      "Description": "Mesh система",
+      "CategoryId": 10,
+      "BrandId": 6
+    },
+
+    {
+      "Id": 173,
+      "Name": "Intel Pentium Gold G7400",
+      "Price": 85,
+      "Amount": 18,
+      "Image": "https://images.pexels.com/photos/2583061/pexels-photo-2583061.jpeg",
+      "Description": "Офісний процесор",
+      "CategoryId": 1,
+      "BrandId": 1
+    },
+    {
+      "Id": 174,
+      "Name": "AMD Athlon 3000G",
+      "Price": 60,
+      "Amount": 22,
+      "Image": "https://images.pexels.com/photos/2583062/pexels-photo-2583062.jpeg",
+      "Description": "Бюджетний CPU",
+      "CategoryId": 1,
+      "BrandId": 2
+    },
+
+    {
+      "Id": 175,
+      "Name": "GTX 1660 Super",
+      "Price": 250,
+      "Amount": 9,
+      "Image": "https://images.pexels.com/photos/2583063/pexels-photo-2583063.jpeg",
+      "Description": "Популярна відеокарта",
+      "CategoryId": 2,
+      "BrandId": 3
+    },
+    {
+      "Id": 176,
+      "Name": "RTX 3060 12GB",
+      "Price": 390,
+      "Amount": 8,
+      "Image": "https://images.pexels.com/photos/2583064/pexels-photo-2583064.jpeg",
+      "Description": "Відмінна для 1080p",
+      "CategoryId": 2,
+      "BrandId": 3
+    },
+
+    {
+      "Id": 177,
+      "Name": "ASUS A520M-K",
+      "Price": 75,
+      "Amount": 18,
+      "Image": "https://images.pexels.com/photos/2583065/pexels-photo-2583065.jpeg",
+      "Description": "Бюджетна AM4 плата",
+      "CategoryId": 3,
+      "BrandId": 4
+    },
+    {
+      "Id": 178,
+      "Name": "Gigabyte H610M S2H",
+      "Price": 85,
+      "Amount": 16,
+      "Image": "https://images.pexels.com/photos/2583066/pexels-photo-2583066.jpeg",
+      "Description": "LGA1700 бюджетна плата",
+      "CategoryId": 3,
+      "BrandId": 6
+    },
+
+    {
+      "Id": 179,
+      "Name": "Kingston Fury 8GB DDR4",
+      "Price": 32,
+      "Amount": 35,
+      "Image": "https://images.pexels.com/photos/2583067/pexels-photo-2583067.jpeg",
+      "Description": "Надійна пам'ять",
+      "CategoryId": 4,
+      "BrandId": 7
+    },
+    {
+      "Id": 180,
+      "Name": "Corsair 8GB DDR4",
+      "Price": 34,
+      "Amount": 33,
+      "Image": "https://images.pexels.com/photos/2583068/pexels-photo-2583068.jpeg",
+      "Description": "Стабільна робота",
+      "CategoryId": 4,
+      "BrandId": 10
+    },
+
+    {
+      "Id": 181,
+      "Name": "WD Green 480GB",
+      "Price": 45,
+      "Amount": 26,
+      "Image": "https://images.pexels.com/photos/2583069/pexels-photo-2583069.jpeg",
+      "Description": "SATA SSD",
+      "CategoryId": 5,
+      "BrandId": 9
+    },
+    {
+      "Id": 182,
+      "Name": "Samsung 870 EVO 500GB",
+      "Price": 55,
+      "Amount": 22,
+      "Image": "https://images.pexels.com/photos/2583070/pexels-photo-2583070.jpeg",
+      "Description": "Надійний SSD",
+      "CategoryId": 5,
+      "BrandId": 8
+    },
+
+    {
+      "Id": 183,
+      "Name": "WD Black 2TB",
+      "Price": 110,
+      "Amount": 13,
+      "Image": "https://images.pexels.com/photos/2583071/pexels-photo-2583071.jpeg",
+      "Description": "Висока продуктивність",
+      "CategoryId": 6,
+      "BrandId": 9
+    },
+    {
+      "Id": 184,
+      "Name": "Seagate IronWolf 2TB",
+      "Price": 95,
+      "Amount": 15,
+      "Image": "https://images.pexels.com/photos/2583072/pexels-photo-2583072.jpeg",
+      "Description": "Для NAS систем",
+      "CategoryId": 6,
+      "BrandId": 2
+    },
+
+    {
+      "Id": 185,
+      "Name": "MSI MAG 550W",
+      "Price": 60,
+      "Amount": 23,
+      "Image": "https://images.pexels.com/photos/2583073/pexels-photo-2583073.jpeg",
+      "Description": "Бюджетний блок живлення",
+      "CategoryId": 7,
+      "BrandId": 5
+    },
+    {
+      "Id": 186,
+      "Name": "Corsair CV550",
+      "Price": 58,
+      "Amount": 25,
+      "Image": "https://images.pexels.com/photos/2583074/pexels-photo-2583074.jpeg",
+      "Description": "550W надійний БЖ",
+      "CategoryId": 7,
+      "BrandId": 10
+    },
+
+    {
+      "Id": 187,
+      "Name": "Cooler Master Q300L",
+      "Price": 65,
+      "Amount": 18,
+      "Image": "https://images.pexels.com/photos/2583075/pexels-photo-2583075.jpeg",
+      "Description": "Компактний корпус",
+      "CategoryId": 8,
+      "BrandId": 5
+    },
+    {
+      "Id": 188,
+      "Name": "NZXT H210",
+      "Price": 100,
+      "Amount": 10,
+      "Image": "https://images.pexels.com/photos/2583076/pexels-photo-2583076.jpeg",
+      "Description": "Mini-ITX корпус",
+      "CategoryId": 8,
+      "BrandId": 6
+    },
+
+    {
+      "Id": 189,
+      "Name": "Noctua NH-L9i",
+      "Price": 55,
+      "Amount": 12,
+      "Image": "https://images.pexels.com/photos/2583077/pexels-photo-2583077.jpeg",
+      "Description": "Компактний кулер",
+      "CategoryId": 9,
+      "BrandId": 7
+    },
+    {
+      "Id": 190,
+      "Name": "Deepcool Assassin III",
+      "Price": 95,
+      "Amount": 7,
+      "Image": "https://images.pexels.com/photos/2583078/pexels-photo-2583078.jpeg",
+      "Description": "Потужне повітряне охолодження",
+      "CategoryId": 9,
+      "BrandId": 5
+    },
+
+    {
+      "Id": 191,
+      "Name": "TP-Link Archer AX10",
+      "Price": 65,
+      "Amount": 21,
+      "Image": "https://images.pexels.com/photos/2583079/pexels-photo-2583079.jpeg",
+      "Description": "Wi-Fi 6 бюджетний",
+      "CategoryId": 10,
+      "BrandId": 4
+    },
+    {
+      "Id": 192,
+      "Name": "ASUS RT-N12+",
+      "Price": 30,
+      "Amount": 34,
+      "Image": "https://images.pexels.com/photos/2583080/pexels-photo-2583080.jpeg",
+      "Description": "Простий домашній роутер",
+      "CategoryId": 10,
+      "BrandId": 4
+    },
+
+    {
+      "Id": 193,
+      "Name": "Intel Core i5-12600KF",
+      "Price": 250,
+      "Amount": 9,
+      "Image": "https://images.pexels.com/photos/2583081/pexels-photo-2583081.jpeg",
+      "Description": "Відмінний ігровий CPU",
+      "CategoryId": 1,
+      "BrandId": 1
+    },
+    {
+      "Id": 194,
+      "Name": "AMD Ryzen 5 3600",
+      "Price": 140,
+      "Amount": 14,
+      "Image": "https://images.pexels.com/photos/2583082/pexels-photo-2583082.jpeg",
+      "Description": "Популярний процесор",
+      "CategoryId": 1,
+      "BrandId": 2
+    },
+
+    {
+      "Id": 195,
+      "Name": "RTX 3050 Dual",
+      "Price": 310,
+      "Amount": 12,
+      "Image": "https://images.pexels.com/photos/2583083/pexels-photo-2583083.jpeg",
+      "Description": "Компактна відеокарта",
+      "CategoryId": 2,
+      "BrandId": 4
+    },
+    {
+      "Id": 196,
+      "Name": "RX 6500 XT",
+      "Price": 220,
+      "Amount": 15,
+      "Image": "https://images.pexels.com/photos/2583084/pexels-photo-2583084.jpeg",
+      "Description": "Бюджетна GPU",
+      "CategoryId": 2,
+      "BrandId": 2
+    },
+
+    {
+      "Id": 197,
+      "Name": "MSI B450 Tomahawk Max",
+      "Price": 120,
+      "Amount": 13,
+      "Image": "https://images.pexels.com/photos/2583085/pexels-photo-2583085.jpeg",
+      "Description": "Надійна AM4 плата",
+      "CategoryId": 3,
+      "BrandId": 5
+    },
+    {
+      "Id": 198,
+      "Name": "Gigabyte X570 Aorus Pro",
+      "Price": 240,
+      "Amount": 6,
+      "Image": "https://images.pexels.com/photos/2583086/pexels-photo-2583086.jpeg",
+      "Description": "Плата для ентузіастів",
+      "CategoryId": 3,
+      "BrandId": 6
+    },
+
+    {
+      "Id": 199,
+      "Name": "Corsair Vengeance RGB 16GB",
+      "Price": 85,
+      "Amount": 17,
+      "Image": "https://images.pexels.com/photos/2583087/pexels-photo-2583087.jpeg",
+      "Description": "RGB DDR4 пам'ять",
+      "CategoryId": 4,
+      "BrandId": 10
+    },
+    {
+      "Id": 200,
+      "Name": "Kingston Fury Beast 32GB",
+      "Price": 145,
+      "Amount": 11,
+      "Image": "https://images.pexels.com/photos/2583088/pexels-photo-2583088.jpeg",
+      "Description": "Висока продуктивність",
+      "CategoryId": 4,
+      "BrandId": 7
     }
   ]
 }
