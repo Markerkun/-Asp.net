@@ -1,0 +1,14 @@
+﻿@model List<CategoryModel>
+<table class="table">
+    <tr>
+        <th>id</th>
+        <th>name</th>
+    </tr>
+    @foreach (var category in Model) {
+        <tr>
+            <td>@category.Id</td>
+            <td>@category.Name</td>
+        </tr>
+    }
+
+</table>

@@ -28,6 +28,12 @@ namespace Shop.Data
                 .HasMaxLength(100);
 
             });
+
+            modelBuilder.Entity<CategoryModel>(e => e.HasData(
+                new CategoryModel { Id = 1, Name = "Телефони", Description = "Смартфони та мобільні телефони" },
+                new CategoryModel { Id = 2, Name = "Ноутбуки", Description = "Портативні комп'ютери для роботи та розваг" },
+                new CategoryModel { Id = 3, Name = "Телевізори", Description = "Великі екрани для домашнього кінотеатру" }
+                ));
             modelBuilder.Entity<BrandModel>(entity =>
             {
                 entity.HasKey(e => e.Id);
